@@ -1,0 +1,4 @@
+#### Rule for Error Page - 404 & 500 ####
+#### Must specify full URL of redirect page ####
+ErrorDocument 404 http://example.com/page-not-found.php
+ErrorDocument 500 http://example.com/page-not-found.php
